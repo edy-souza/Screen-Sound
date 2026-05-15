@@ -1,0 +1,29 @@
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\bin\Debug\net10.0\C# projeto musical.exe
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\bin\Debug\net10.0\C# projeto musical.deps.json
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\bin\Debug\net10.0\C# projeto musical.runtimeconfig.json
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\bin\Debug\net10.0\C# projeto musical.dll
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\bin\Debug\net10.0\C# projeto musical.pdb
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\C# projeto musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\C# projeto musical.AssemblyInfoInputs.cache
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\C# projeto musical.AssemblyInfo.cs
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\C# projeto musical.csproj.CoreCompileInputs.cache
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\C# projeto musical.dll
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\refint\C# projeto musical.dll
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\C# projeto musical.pdb
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\C# projeto musical.genruntimeconfig.cache
+C:\Users\Edy Souza\OneDrive - Andrade Gutierrez\Área de Trabalho\C# projeto musical\obj\Debug\net10.0\ref\C# projeto musical.dll
+C:\PROJETOS\ALURA\C# projeto musical\bin\Debug\net10.0\C# projeto musical.exe
+C:\PROJETOS\ALURA\C# projeto musical\bin\Debug\net10.0\C# projeto musical.deps.json
+C:\PROJETOS\ALURA\C# projeto musical\bin\Debug\net10.0\C# projeto musical.runtimeconfig.json
+C:\PROJETOS\ALURA\C# projeto musical\bin\Debug\net10.0\C# projeto musical.dll
+C:\PROJETOS\ALURA\C# projeto musical\bin\Debug\net10.0\C# projeto musical.pdb
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.AssemblyInfoInputs.cache
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.AssemblyInfo.cs
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.csproj.CoreCompileInputs.cache
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.sourcelink.json
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.dll
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\refint\C# projeto musical.dll
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.pdb
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\C# projeto musical.genruntimeconfig.cache
+C:\PROJETOS\ALURA\C# projeto musical\obj\Debug\net10.0\ref\C# projeto musical.dll
