@@ -1,4 +1,13 @@
-﻿// Screen Sound
+﻿Musica musica1 = new Musica();
+
+musica1.Nome = "Roxane";
+musica1.Artista = "The Police";
+musica1.Duracao = 280;
+musica1.Disponivel = true;
+
+musica1.ExibirFichaTecnica();
+
+// Screen Sound
 string saudacao = "Boas vindas ao Screen Sound";
 //List<string> listaDasBandas = new List<string>{"U2", "Pink Floyd", "Five"};
 
@@ -157,4 +166,5 @@ void ExibirMedia()
 
 ExibirLogo();
 ExibirOpcoesMenu();
+
 
