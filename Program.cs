@@ -1,28 +1,31 @@
-﻿Banda queen = new Banda("Queen");
+﻿Episodio ep1 = new Episodio(1, "Técnicas de Facilitação", 120);
+ep1.AddConvidados("Maria");
+ep1.AddConvidados("Gustavo");
 
-Album albumDoQueen = new Album("A night at the opera");
+Episodio ep2 = new Episodio(2, "Python na prática", 45);
+ep2.AddConvidados("Camila");
+ep2.AddConvidados("Pedro");
 
-Musica musica1 = new Musica(queen, "Love of my life")
-{
-    Duracao = 213,
-    Disponivel = true,
-};
+Episodio ep3 = new Episodio(3, "Descomplicando o back-end", 45);
+ep3.AddConvidados("Bruno");
+ep3.AddConvidados("Marcelo");
 
-Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
-{
-    Duracao = 354,
-    Disponivel = false,
-};
+Episodio ep4 = new Episodio(4, "Café com dev", 90);
+ep4.AddConvidados("Ludmila");
+ep4.AddConvidados("Beatriz");
 
-albumDoQueen.AdicionarMusica(musica1);
-albumDoQueen.AdicionarMusica(musica2);
-queen.AdicionarAlbum(albumDoQueen);
+Episodio ep5 = new Episodio(5, "Engenharia de dados básico", 60);
+ep5.AddConvidados("Josué");
+ep5.AddConvidados("Jonatan");
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
-albumDoQueen.ExibirMusicaAlbum();
-queen.ExibirAlbum();
+Podcast podcast = new Podcast("Dev alternativo", "Ed Souza");
+podcast.AddEpisodios(ep1);
+podcast.AddEpisodios(ep2);
+podcast.AddEpisodios(ep3);
+podcast.AddEpisodios(ep4);
+podcast.AddEpisodios(ep5);
 
+podcast.ExibirDetalhesPodcast();
 
 // Screen Sound
 string saudacao = "Boas vindas ao Screen Sound";
